@@ -1,8 +1,8 @@
 {
-  "name": "pangolin",
+  "name": "Tantan",
   "version": "0.0.1",
-  "description": "bot chat message",
-  "author": "bossvirus03",
+  "description": "bot chat Messenger",
+  "author": "Tantan",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
