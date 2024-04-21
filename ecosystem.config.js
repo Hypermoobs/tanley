@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: "pangolin",
+      name: "Tantan",
       script: "dist/main.js",
       instances: 1,
       autorestart: false,
