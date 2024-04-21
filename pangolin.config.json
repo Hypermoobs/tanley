@@ -1,10 +1,10 @@
 {
-    "botname": "pangolin",
+    "botname": "Tantan",
     "admins": [
-        "100049732817959",
-        "100000113681117"
+        "100084553454309",
+        "100084553454309"
     ],
-    "prefix": ";",
+    "prefix": "!",
     "commands": {
         "youtube_search_api": "AIzaSyBDI5O0D9SHlMy8EhAyFbt5kc96WJqaFqQ"
     },
